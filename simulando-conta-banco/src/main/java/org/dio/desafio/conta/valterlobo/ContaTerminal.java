@@ -35,7 +35,11 @@ public class ContaTerminal {
         // Exibe a mensagem final com os dados capturados
         String mensagem = "Olá " + conta.getNomeCliente() + ", obrigado por criar uma conta em nosso banco, sua agência é " + conta.getAgencia() + ", conta " + conta.getNumero() + " e seu saldo " + conta.getSaldo() + " já está disponível para saque.";
         System.out.println(mensagem);
-        //conta.deposito(10000.00);
-        //System.out.println(conta.getSaldo());
+        //DEPOSITO
+        conta.deposito(10000.00);
+        System.out.println(conta.getSaldo());
+        //RETIRADA
+        conta.retirada(10000.00);
+        System.out.println(conta.getSaldo());
     }
 }
