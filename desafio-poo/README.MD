@@ -29,7 +29,7 @@
 
 
 
-<h2> Aprendendo na Prática o Paradigma de Orientação a Objetos: Desafio de Criação de uma Plataforma de Bootcamp </h2>
+<h2> Criação de uma Plataforma de Bootcamp </h2>
 
 Neste desafio, você terá a oportunidade de aplicar o paradigma de orientação a objetos na prática ao criar uma plataforma de bootcamp. Você desenvolverá uma aplicação que gerencia diferentes aspectos do bootcamp, incluindo:
 
