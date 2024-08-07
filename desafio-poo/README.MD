@@ -28,4 +28,16 @@
 </p>
 
 
+
+**Aprendendo na Prática o Paradigma de Orientação a Objetos: Desafio de Criação de uma Plataforma de Bootcamp**
+
+Neste desafio, você terá a oportunidade de aplicar o paradigma de orientação a objetos na prática ao criar uma plataforma de bootcamp. Você desenvolverá uma aplicação que gerencia diferentes aspectos do bootcamp, incluindo:
+
+- **Objetos de Domínio**: Definição dos principais objetos que representam os conceitos centrais da plataforma.
+- **Conteúdo**: Gestão e organização dos materiais de aprendizado, como textos, vídeos e quizzes.
+- **Curso**: Estruturação dos cursos oferecidos, com tópicos, módulos e avaliações.
+- **Bootcamp**: Organização e execução dos programas de treinamento intensivo, incluindo cronogramas e inscrições.
+- **Desenvolvedores (Dev)**: Gerenciamento dos perfis dos desenvolvedores, suas inscrições e progresso nos cursos.
+
+
 ![](diagram.png)
