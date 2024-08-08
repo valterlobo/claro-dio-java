@@ -3,7 +3,7 @@ package br.com.dio.lab.banco.dominio;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class Banco extends Cliente {
+public class Banco {
 
     private final Set<Conta> contas;
     private String nome;
